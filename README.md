@@ -8,7 +8,7 @@ Spinelli I, Scardapane S, Hussain A, Uncini A, [Biased Edge Dropout for Enhancin
 
 We introduce a flexible biased edge dropout algorithm for enhancing fairness in graph representation learning. FairDrop targets the negative effect of the network's homophily w.r.t the sensitive attribute.
 
-![Schematics of the proposed framework.](https://github.com/spindro/FairDrop/blob/master/fairdrop.pdf)
+![Schematics of the proposed framework.](https://github.com/spindro/FairDrop/blob/main/fairdrop.png)
 
 
 ### Acknowledgments
