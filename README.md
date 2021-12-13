@@ -1,7 +1,7 @@
 # FairDrop
 
 This is the companion code for the paper:
-Spinelli I, Scardapane S, Hussain A, Uncini A, [Biased Edge Dropout for Enhancing Fairness in Graph Representation Learning](https://arxiv.org/abs/2104.14210).
+Spinelli I, Scardapane S, Hussain A, Uncini A, [FairDrop: Biased Edge Dropout for Enhancing Fairness in Graph Representation Learning](https://ieeexplore.ieee.org/document/9645324).
 
 
 ### Fair edge dropout
@@ -19,15 +19,16 @@ Many thanks to the authors of [[1]](https://github.com/aida-ugent/DeBayes) for m
 
 ### Cite
 
-Please cite [our paper](https://arxiv.org/abs/2104.14210) if you use this code in your own work:
+Please cite [our paper](https://ieeexplore.ieee.org/document/9645324) if you use this code in your own work:
 
 ```
-@misc{spinelli2021biased,
-    title={Biased Edge Dropout for Enhancing Fairness in Graph Representation Learning},
-    author={Indro Spinelli and Simone Scardapane and Amir Hussain and Aurelio Uncini},
-    year={2021},
-    eprint={2104.14210},
-    archivePrefix={arXiv},
-    primaryClass={cs.LG}
-}
+@ARTICLE{spinelli2021fairdrop,
+  author={Spinelli, Indro and Scardapane, Simone and Hussain, Amir and Uncini, Aurelio},
+  journal={IEEE Transactions on Artificial Intelligence}, 
+  title={FairDrop: Biased Edge Dropout for Enhancing Fairness in Graph Representation Learning}, 
+  year={2021},
+  volume={},
+  number={},
+  pages={1-1},
+  doi={10.1109/TAI.2021.3133818}}
 ```
